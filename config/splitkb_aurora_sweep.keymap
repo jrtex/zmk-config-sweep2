@@ -174,13 +174,13 @@ ZMK_LAYER(functions,
                 &kp F1    &kp F2    &kp F3    &kp F4    &kp F5      &kp F6    &kp F7    &kp F8    &kp F9    &kp F10
                 &kp F11   &kp F12   &trans    &trans    &trans      &trans    &trans    &trans    &trans    &trans
                 BTSEL0    BTSEL1    BTSEL2    BTSEL3    BTSEL4      BTCLR     &trans    &trans    &trans    &trans
-                                              &mo MED    &trans      &trans    &trans
+                                              &mo MED   &caps_words &trans    &trans
 )
 ZMK_LAYER(navigation,
                 &trans    WORDPREV  &kp UP    WORDNEXT  &trans      &trans    &kp INS   &kp HOME  &kp PG_UP &trans
                 &trans    &kp LEFT  &kp DOWN  &kp RIGHT &trans      &trans    &kp DEL   &kp END   &kp PG_DN &trans
                 &trans    DESKLEFT  TASKVIEW  DESKRIGHT &trans      &trans    &trans    &trans    &trans    &trans
-                                              &trans    &trans      &trans    &trans
+                                              &trans    &trans      &mo KRB2  &trans
 )
 ZMK_LAYER(media,
                 &trans    &trans    &trans    &trans    &trans      &trans    &trans    &trans    &trans    &trans
