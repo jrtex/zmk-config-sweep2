@@ -22,7 +22,6 @@ This layout has evolved from a 60% keyboard, originally using QMK, to progressiv
 - Reduce reliance on outer rows and outer thumb keys for eventual move to 34-key layout
 
 
-
 ## Keymap
 
 <img src="keymap_drawer/sweep_keymap.png">
