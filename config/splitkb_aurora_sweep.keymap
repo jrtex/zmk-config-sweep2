@@ -183,7 +183,7 @@ ZMK_LAYER(navigation,
                 &trans    WORDPREV  &kp UP    WORDNEXT  &trans      &trans    &kp INS   &kp HOME  &kp PG_UP &trans
                 &trans    &kp LEFT  &kp DOWN  &kp RIGHT &trans      &trans    &kp DEL   &kp END   &kp PG_DN &trans
                 &trans    DESKLEFT  TASKVIEW  DESKRIGHT &trans      &trans    &trans    &trans    &trans    &trans
-                                              &trans    &trans      ASPK2     &trans
+                                              &trans    &trans      ARTK2     &trans
 )
 ZMK_LAYER(media,
                 &trans    &trans    &trans    &trans    &trans      &trans    &trans    &trans    &trans    &trans
@@ -195,7 +195,7 @@ ZMK_LAYER(komorebi,
     &kp LA(Q) &kp LA(W) &kp LA(F) &kp LA(P) &kp LA(B)   &kp LA(J) &kp LA(L) &kp LA(U)     &kp LA(Y)   &kp LA(SEMI)
     &kp LA(A) &kp LA(R) &kp LA(S) &kp LA(T) &kp LA(G)   &kp LA(M) &kp LA(N) &kp LA(E)     &kp LA(I)   &kp LA(O)
     &kp LA(Z) &kp LA(X) &kp LA(C) &kp LA(D) &kp LA(V)   &kp LA(K) &kp LA(H) &kp LA(COMMA) &kp LA(DOT) &kp LA(FSLH)
-                                  &trans    ARTK2       &trans    &trans
+                                  &trans    ASPK2       &trans    &trans
 )
 ZMK_LAYER(komorebi2,
     &kp LS(LA(Q)) &kp LS(LA(W)) &kp LS(LA(F)) &kp LS(LA(P)) &kp LS(LA(B))   &kp LS(LA(J)) &kp LS(LA(L)) &kp LS(LA(U))     &kp LS(LA(Y))   &kp LS(LA(SEMI))
