@@ -20,7 +20,7 @@
 
 
 // Two-hand combos:
-ZMK_COMBO(combo_hrcaps, &caps_word, LB1 RB1, ALL) // D H
+ZMK_COMBO(combo_hrcaps, &caps_word, LB1 RB1) // D H
 
 // Left-hand combos:
 ZMK_COMBO(combo_close,  &kp LC(W), LT4 LT3, ALL, 20) // Q W
